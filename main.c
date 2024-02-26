@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+sla
 
 int Vogal(char ch) {
     ch = tolower(ch);
