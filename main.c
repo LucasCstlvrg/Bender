@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 sla
-
+ola
 int Vogal(char ch) {
     ch = tolower(ch);
     return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
