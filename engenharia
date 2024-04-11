@@ -1,0 +1,45 @@
+requisitos : processo de ciclo de vida base de dados local
+data center: 
+cliente quer nuvem - 
+mudar de infraestrutura pra nuvem 
+requistos tem varios categorias
+precisa de modelo de processo
+e uma propriedade que deve ser demonstrada para a resolver alg9ujm problema no mundo real 
+requisitos funcionais: do usuario: clareza, simplificar fundido requistos
+consistemacia para separar requistios
+exemplo requisito do usuario - formato padrao
+
+requisito do sistema: visao geral do fluxo geral do sistema
+visao do que o sistema tem que fazer
+exemplo: sistema tem que permitir que o administrador cadastre os funcionarios: cpf,nome, tel
+atribuir cargo: assitente, supervisor, gerente, diretor
+excluir cargo: 
+
+requisitos nao funcionais: restricao ao software, ex: confiabilidade, segurança, armazenamento, facilidade de uso, tempo de resposta
+fazer teste e necessario, complexo, torna inutil
+
+classificar os requisitos nao funcionais: cada item forma de representacao especifica
+
+Exemplos de requisitos nao funcionais: RNF1 ... o banco de dados deve seer representado em tempo real - Estudo de Caso
+
+Requistitos de dominio: dominio de aplicacao - 
+Aviacao - usos e o dominio da aplicacao
+
+Engenharia de requisitos - cliente do sistema, gerentes, engenheiros de sistema,eng de testes, eng de manutencao
+
+Propriedade dos requisitos: identidade - gerenciar a configuracao de software, prioridade do requisito, existem tecnicas, importancia pro usuario
+EX: 1,2,3,4 baixa, media, alta
+
+Status: para monitorar o progresso, 
+EX: analise, aprovado , alocado, implementado, testado, planejado, cancelado
+
+Requisitos como historias de usuario: SCRUM, expressar em poucas palavras, 
+EX: Como admin, administrar com cpf nome email telefone para gerenciar os funcionarios
+EX: Como admin, atribuir um cargo 
+EX: como admin, cadastro de funcionarios
+
+Se existe uma tecnica para solucionar algum problema
+
+1. sera que existe uma tecnica para engenharia de requisitos
+
+principais caracteristicas geral, funilar na engenharia de requisitos
